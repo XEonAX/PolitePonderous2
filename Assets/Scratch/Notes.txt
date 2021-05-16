@@ -1,0 +1,1 @@
+Tyro Skybox https://wwwtyro.github.io/space-3d/#animationSpeed=1&fov=123&nebulae=true&pointStars=true&resolution=512&seed=1%201%201%201%201%201%201%201&stars=true&sun=true
